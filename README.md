@@ -1,8 +1,8 @@
-直播源
+</a>直播源
 
 重庆 
 
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/hu-gu/IPTV/main/Chongqing.m3u     
+ <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/hu-gu/IPTV/main/Chongqing.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/hu-gu/IPTV/main/Chongqing.txt
 
