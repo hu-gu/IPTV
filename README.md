@@ -7,4 +7,6 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/hu-gu/IPTV/main/Cho
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/hu-gu/IPTV/main/Chongqing.txt
 
+移动
 
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/hu-gu/IPTV/main/IPTV.m3u
