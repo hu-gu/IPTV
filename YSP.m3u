@@ -55,12 +55,12 @@ http://cfss.cc/ds/ysp/qp.php?id=nxss&Cf.m3u8
 http://cfss.cc/ds/ysp/qp.php?id=whjp&Cf.m3u8
 #EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="央视",CCTV世界地理
 http://cfss.cc/ds/ysp/qp.php?id=sjdl&Cf.m3u8
+#EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="央视",CCTV高尔夫网球
+http://cfss.cc/ds/ysp/qp.php?id=gefwq&Cf.m3u8
 #EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="央视",CCTV央视台球
 http://cfss.cc/ds/ysp/qp.php?id=ystq&Cf.m3u8
 #EXTINF:-1,tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://epg.112114.xyz/logo/卫生健康.png" group-title="央视",CCTV卫生健康
 http://cfss.cc/ds/ysp/qp.php?id=wsjk&Cf.m3u8
-#EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="央视",CCTV高尔夫网球
-http://cfss.cc/ds/ysp/qp.php?id=gefwq&Cf.m3u8
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://cfss.cc/ds/ysp/qp.php?id=ahwsq&Cf.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
