@@ -8,5 +8,4 @@
 <h2>EPG源</h2>
 <p dir="auto"><code>https://epg.112114.xyz</code>
 <p dir="auto"><code>https://epg.112114.eu.org</code>
-<p dir="auto"><code>http://diyp.112114.xyz</code>
 <p dir="auto"><code>https://epg.112114.xyz/pp.xml</code>
