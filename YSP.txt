@@ -27,9 +27,9 @@ CCTV电视指南,http://cfss.cc/ds/ysp/qp.php?id=dszn&Cf.m3u8
 CCTV女性时尚,http://cfss.cc/ds/ysp/qp.php?id=nxss&Cf.m3u8
 CCTV央视文化精品,http://cfss.cc/ds/ysp/qp.php?id=whjp&Cf.m3u8
 CCTV世界地理,http://cfss.cc/ds/ysp/qp.php?id=sjdl&Cf.m3u8
+CCTV高尔夫网球,http://cfss.cc/ds/ysp/qp.php?id=gefwq&Cf.m3u8
 CCTV央视台球,http://cfss.cc/ds/ysp/qp.php?id=ystq&Cf.m3u8
 CCTV卫生健康,http://cfss.cc/ds/ysp/qp.php?id=wsjk&Cf.m3u8
-CCTV高尔夫网球,http://cfss.cc/ds/ysp/qp.php?id=gefwq&Cf.m3u8
 卫视,#genre#
 安徽卫视,http://cfss.cc/ds/ysp/qp.php?id=ahwsq&Cf.m3u8
 北京卫视,http://cfss.cc/ds/ysp/qp.php?id=bjws&Cf.m3u8
