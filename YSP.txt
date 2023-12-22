@@ -31,7 +31,7 @@ CCTV高尔夫网球,http://cfss.cc/ds/ysp/qp.php?id=gefwq&Cf.m3u8
 CCTV央视台球,http://cfss.cc/ds/ysp/qp.php?id=ystq&Cf.m3u8
 CCTV卫生健康,http://cfss.cc/ds/ysp/qp.php?id=wsjk&Cf.m3u8
 卫视,#genre#
-安徽卫视,http://cfss.cc/ds/ysp/qp.php?id=ahwsq&Cf.m3u8
+安徽卫视,http://cfss.cc/ds/ysp/qp.php?id=ahws&Cf.m3u8
 北京卫视,http://cfss.cc/ds/ysp/qp.php?id=bjws&Cf.m3u8
 重庆卫视,http://cfss.cc/ds/ysp/qp.php?id=cqws&Cf.m3u8
 东方卫视,http://cfss.cc/ds/ysp/qp.php?id=dfws&Cf.m3u8
