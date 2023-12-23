@@ -97,7 +97,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
 #EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/ningxia.png" group-title="卫视",宁夏卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
-#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/neimenggu.png" group-title="卫视",内蒙古卫视
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="卫视",内蒙古卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/shandong.png" group-title="卫视",山东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
