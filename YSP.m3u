@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1综合
 http://cfss.cc/ds/ysp/qp.php?id=cctv1&Cf.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2财经
@@ -77,15 +77,15 @@ http://cfss.cc/ds/ysp/qp.php?id=gdws&Cf.m3u8
 http://cfss.cc/ds/ysp/qp.php?id=gxws&Cf.m3u8
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/guizhou.png" group-title="卫视",贵州卫视
 http://cfss.cc/ds/ysp/qp.php?id=gzws&Cf.m3u8
-#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/hainan.png" group-title="卫视",海南卫视
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
 http://cfss.cc/ds/ysp/qp.php?id=hinws&Cf.m3u8
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/hebei.png.png" group-title="卫视",河北卫视
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/hebei.png" group-title="卫视",河北卫视
 http://cfss.cc/ds/ysp/qp.php?id=hbws&Cf.m3u8
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/henan.png" group-title="卫视",河南卫视
 http://cfss.cc/ds/ysp/qp.php?id=hnws&Cf.m3u8
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://cfss.cc/ds/ysp/qp.php?id=hljws&Cf.m3u8
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/hubei.png.png" group-title="卫视",湖北卫视
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/hubei.png" group-title="卫视",湖北卫视
 http://cfss.cc/ds/ysp/qp.php?id=fbws&Cf.m3u8
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/hunan.png" group-title="卫视",湖南卫视
 http://cfss.cc/ds/ysp/qp.php?id=fnws&Cf.m3u8
