@@ -73,24 +73,24 @@ https://live.imxd.top/live.php?id=guangdongHD
 https://live.imxd.top/live.php?id=guangxiHD
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/guizhou.png" group-title="卫视",贵州卫视
 https://live.imxd.top/live.php?id=guizhouHD
-#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
-https://live.imxd.top/live.php?id=hainanSD
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/hebei.png" group-title="卫视",河北卫视
 https://live.imxd.top/live.php?id=hebeiSD
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/henan.png" group-title="卫视",河南卫视
 https://live.imxd.top/live.php?id=henanHD
-#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/heilongjiang.png" group-title="卫视",黑龙江卫视
-https://live.imxd.top/live.php?id=heilongjiangHD
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/hubei.png" group-title="卫视",湖北卫视
 https://live.imxd.top/live.php?id=hubeiSD
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/hunan.png" group-title="卫视",湖南卫视
 https://live.imxd.top/live.php?id=hunanHD
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/jilin.png" group-title="卫视",吉林卫视
-https://live.imxd.top/live.php?id=jilinHD
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
+https://live.imxd.top/live.php?id=hainanSD
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/heilongjiang.png" group-title="卫视",黑龙江卫视
+https://live.imxd.top/live.php?id=heilongjiangHD
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/jiangsu.png" group-title="卫视",江苏卫视
 https://live.imxd.top/live.php?id=jiangsuHD
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/jiangxi.png" group-title="卫视",江西卫视
 https://live.imxd.top/live.php?id=jiangxiHD
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/jilin.png" group-title="卫视",吉林卫视
+https://live.imxd.top/live.php?id=jilinHD
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/liaoning.png" group-title="卫视",辽宁卫视
 https://live.imxd.top/live.php?id=liaoningHD
 #EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/ningxia.png" group-title="卫视",宁夏卫视
@@ -99,18 +99,18 @@ https://live.imxd.top/live.php?id=ningxia
 https://live.imxd.top/live.php?id=neimengkuSD
 #EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/qinghai.png" group-title="卫视",青海卫视
 https://live.imxd.top/live.php?id=qinghaiSD
-#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/shanxi_.png" group-title="卫视",山西卫视
-https://live.imxd.top/live.php?id=shanxiSD
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/shenzhen.png" group-title="卫视",深圳卫视
-https://live.imxd.top/live.php?id=shenzhenHD
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/sichuan.png" group-title="卫视",四川卫视
 https://live.imxd.top/live.php?id=sichuanHD
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/shenzhen.png" group-title="卫视",深圳卫视
+https://live.imxd.top/live.php?id=shenzhenHD
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/shanxi_.png" group-title="卫视",山西卫视
+https://live.imxd.top/live.php?id=shanxiSD
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/tianjin.png" group-title="卫视",天津卫视
 https://live.imxd.top/live.php?id=tianjinHD
-#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/xizang.png" group-title="卫视",西藏卫视
-https://live.imxd.top/live.php?id=xizangSD
 #EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/xinjiang.png" group-title="卫视",新疆卫视
 https://live.imxd.top/live.php?id=xinjiangSD
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/xizang.png" group-title="卫视",西藏卫视
+https://live.imxd.top/live.php?id=xizangSD
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/yunnan.png" group-title="卫视",云南卫视
 https://live.imxd.top/live.php?id=yunnanSD
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/zhejiang.png" group-title="卫视",浙江卫视
