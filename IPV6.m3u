@@ -128,7 +128,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181362BESTVSMGSMG/ind
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN911992BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUYPFYDnFP%2FDAPuH7S4egu%2BwwoDIwMxbrlyyVy9x6ZDKni2tPDnaOO8v3uGUKi1hZOhPazmZ%2B8tgH3leYQIsqfKE
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视",山西卫视
-
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226009/index.m3u8
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视",陕西卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225989/index.m3u8
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
